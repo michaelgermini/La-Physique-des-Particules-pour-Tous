@@ -406,7 +406,7 @@
 #### **Quiz 8 : Les accélérateurs**
 **Réponse correcte : Étudier les collisions à haute énergie**
 **Explication :** Les accélérateurs permettent de recréer les conditions du Big Bang et d'étudier les particules.
-**Chapitre :** [II.2 Accélérateurs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/accelerateurs.md)
+**Chapitre :** [II.2 Accélérateurs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/accelerateurs-particules.md)
 
 #### **Quiz 9 : La découverte du Higgs**
 **Réponse correcte : 2012**
@@ -421,7 +421,7 @@
 #### **Quiz 11 : L'énergie au CERN**
 **Réponse correcte : 13 TeV par faisceau**
 **Explication :** Le LHC atteint 13 TeV par faisceau depuis 2015, soit 13 TeV dans le centre de masse.
-**Chapitre :** [II.3 LHC](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/lhc.md)
+**Chapitre :** [II.3 LHC](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/cyclotron-lhc.md)
 
 #### **Quiz 12 : Les détecteurs**
 **Réponse correcte : ATLAS**
@@ -681,4 +681,5 @@
 - **Applications :** [Mini-laboratoire](mini-laboratoire.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
 - **Formules :** [Calculs détaillés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/formules-calculs.md)
+
 

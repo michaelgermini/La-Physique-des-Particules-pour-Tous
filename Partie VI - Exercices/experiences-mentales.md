@@ -123,7 +123,7 @@
 
 **Résultat attendu :** Non - l'énergie nécessaire est proportionnelle à la circonférence. Un petit accélérateur n'atteint pas les énergies requises.
 
-**Chapitre :** [II.2 Énergie accélérateurs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/energie-accelerateurs.md)
+**Chapitre :** [II.2 Énergie accélérateurs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/accelerateurs-particules.md)
 
 #### **Expérience 14 : La matière noire invisible**
 **Scénario :** La matière noire remplit l'espace autour de nous, mais nous ne la voyons pas.
@@ -514,5 +514,6 @@ Les expériences de ce niveau abordent les grands mystères :
 - **Quiz de compréhension :** [50 quiz complets](quiz-comprehension.md)
 - **Fondements :** [Héritage labos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+
 
 

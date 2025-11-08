@@ -233,7 +233,7 @@
 2. Placer échantillon dans champ magnétique
 3. Observer absorption à fréquence de Larmor
 **Résultat attendu :** ω = γB (fréquence de Larmor)
-**Chapitre :** [II.4 RMN](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/resonance-magnetique-nucleaire.md)
+**Chapitre :** [II.4 RMN](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/detecteurs-particules.md)
 
 #### **Laboratoire 26 : Effet Hall**
 **Matériel :** Ruban métallique, aimant, voltmètre
@@ -296,7 +296,7 @@
 2. Irradier avec source radioactive
 3. Photographier traces
 **Résultat attendu :** Trajectoires visibles des particules ionisantes
-**Chapitre :** [II.4 Chambre Wilson](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/chambre-wilson.md)
+**Chapitre :** [II.4 Chambre Wilson](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/detecteurs-particules.md)
 
 #### **Laboratoire 33 : Spectromètre de masse**
 **Matériel :** Plaques chargées, particules chargées
@@ -305,7 +305,7 @@
 2. Dévier dans champ magnétique
 3. Mesurer rayon de courbure
 **Résultat attendu :** m/q = (B²r²)/(2V) (équation cyclotron)
-**Chapitre :** [II.4 Spectromètre masse](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/spectrometre-masse.md)
+**Chapitre :** [II.4 Spectromètre masse](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/detecteurs-particules.md)
 
 #### **Laboratoire 34 : Détecteur à scintillation**
 **Matériel :** Cristal scintillant, photomultiplicateur, source radioactive
@@ -516,5 +516,6 @@ Ces expériences requièrent des installations spécialisées :
 - **Jeux raisonnement :** [50 jeux de raisonnement](jeux-raisonnement.md)
 - **Fondements :** [Rayons cosmiques](rayons-cosmiques.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+
 
 
