@@ -27,7 +27,7 @@
 **Objectif :** Remplir les orbitales atomiques selon le principe d'exclusion de Pauli.
 **Résultat attendu :** Maximum 2 électrons par orbitale, spins opposés. Cela explique la stabilité des atomes.
 
-**Chapitre :** [I.2 Spin et statistiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/spin-statistiques.md)
+**Chapitre :** [I.2 Spin et statistiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Jeu 4 : Désintégration radioactive**
 **Règles :** Les noyaux instables peuvent émettre particules. Alpha (2p+2n), bêta (électron), gamma (rayonnement).
@@ -48,14 +48,14 @@
 **Objectif :** Créer des paires particule-antiparticule temporaires.
 **Résultat attendu :** Ces particules virtuelles transmettent les forces fondamentales (photons virtuels pour l'électromagnétisme).
 
-**Chapitre :** [I.2 Particules virtuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/particules-virtuelles.md)
+**Chapitre :** [I.2 Particules virtuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 7 : Intrication quantique**
 **Règles :** Deux particules peuvent être liées : mesurer l'une détermine instantanément l'état de l'autre.
 **Objectif :** Créer des paires intriquées et observer les corrélations non-locales.
 **Résultat attendu :** L'intrication défie l'intuition classique mais est confirmée expérimentalement (paradoxe EPR).
 
-**Chapitre :** [I.2 Intrication quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/intrication-quantique.md)
+**Chapitre :** [I.2 Intrication quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 8 : Effet Doppler relativiste**
 **Règles :** La fréquence change selon la vitesse relative : f' = f × √((1+v/c)/(1-v/c)).
@@ -69,14 +69,14 @@
 **Objectif :** Calculer l'énergie libérée lors de la fission d'un noyau d'uranium.
 **Résultat attendu :** La différence de masse entre uranium et produits de fission donne l'énergie des bombes atomiques.
 
-**Chapitre :** [I.1 Équivalence masse-énergie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/equivalence-masse-energie.md)
+**Chapitre :** [I.1 Équivalence masse-énergie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/unification-forces.md)
 
 #### **Jeu 10 : Horloge relativiste**
 **Règles :** Le temps ralentit pour les objets en mouvement : Δt' = Δt × √(1-v²/c²).
 **Objectif :** Comparer le temps propre d'une horloge dans un avion supersonique vs au sol.
 **Résultat attendu :** L'horloge en mouvement retarde légèrement - effet confirmé par les GPS.
 
-**Chapitre :** [I.1 Temps propre](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/temps-propre.md)
+**Chapitre :** [I.1 Temps propre](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/unification-forces.md)
 
 #### **Jeu 11 : Rayonnement de corps noir**
 **Règles :** Les objets chauds émettent un spectre continu selon la loi de Planck.
@@ -90,28 +90,28 @@
 **Objectif :** Expliquer pourquoi nous détectons moins de neutrinos du Soleil que prédit.
 **Résultat attendu :** Les neutrinos oscillent entre saveurs, prouvant qu'ils ont une masse non-nulle.
 
-**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/oscillations-neutrinos.md)
+**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Jeu 13 : Effet photoélectrique**
 **Règles :** La lumière peut éjecter des électrons si E_photon > travail d'extraction.
 **Objectif :** Expliquer pourquoi la lumière ultraviolette peut ioniser mais pas la rouge.
 **Résultat attendu :** La lumière est quantifiée - fréquence détermine l'énergie des photons.
 
-**Chapitre :** [I.2 Effet photoélectrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/effet-photoelectrique.md)
+**Chapitre :** [I.2 Effet photoélectrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 14 : Dualité onde-particule**
 **Règles :** Toute particule a une longueur d'onde λ = h/p associée.
 **Objectif :** Expliquer l'expérience des deux fentes avec des électrons.
 **Résultat attendu :** Les électrons montrent une interférence, prouvant leur nature ondulatoire.
 
-**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/dualite-onde-particule.md)
+**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 15 : Principe d'incertitude**
 **Règles :** Impossible de connaître simultanément position et impulsion avec précision : Δx × Δp ≥ ℏ/2.
 **Objectif :** Expliquer pourquoi les électrons ne tombent pas dans le noyau atomique.
 **Résultat attendu :** L'incertitude quantique empêche les électrons d'avoir une position définie nulle.
 
-**Chapitre :** [I.2 Principe d'incertitude](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/principe-incertitude-heisenberg.md)
+**Chapitre :** [I.2 Principe d'incertitude](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 ### 🟡 Niveau intermédiaire (Jeux 16-35)
 
@@ -120,21 +120,21 @@
 **Objectif :** Calculer la différence d'âge selon la vitesse et durée du voyage.
 **Résultat attendu :** Le voyageur est plus jeune - effet confirmé par des horloges atomiques.
 
-**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/paradoxe-jumeaux.md)
+**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/unification-forces.md)
 
 #### **Jeu 17 : Chat de Schrödinger**
 **Règles :** Un système quantique peut être dans une superposition d'états jusqu'à observation.
 **Objectif :** Discuter si le chat est vivant/mort avant ouverture de la boîte.
 **Résultat attendu :** Illustration de l'interprétation de Copenhague - la réalité quantique collapse à l'observation.
 
-**Chapitre :** [I.2 Interprétation de Copenhague](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/interpretation-copenhague.md)
+**Chapitre :** [I.2 Interprétation de Copenhague](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 18 : Effet Casimir**
 **Règles :** Deux plaques conductrices dans le vide créent une force attractive.
 **Objectif :** Expliquer l'origine quantique de cette force.
 **Résultat attendu :** Fluctuations du vide quantique - moins de modes entre les plaques qu'à l'extérieur.
 
-**Chapitre :** [I.2 Fluctuations du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/fluctuations-vide.md)
+**Chapitre :** [I.2 Fluctuations du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Jeu 19 : Rayonnement de Hawking**
 **Règles :** Les trous noirs émettent un rayonnement thermique à T = ℏc³/(8πGMk).
@@ -311,7 +311,7 @@
 **Objectif :** Permettre la double désintégration bêta sans neutrino.
 **Résultat attendu :** Si observée, prouverait que les neutrinos sont de Majorana.
 
-**Chapitre :** [I.5 Neutrinos de Majorana](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/neutrinos-majorana.md)
+**Chapitre :** [I.5 Neutrinos de Majorana](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Jeu 44 : Violation de CPT**
 **Règles :** Les lois physiques pourraient ne pas être symétriques sous CPT.
@@ -415,3 +415,4 @@ Ces jeux abordent les questions ouvertes :
 - **Expériences mentales :** [50 expériences mentales](experiences-mentales.md)
 - **Fondements :** [Penser physicien](penser-physicien.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+

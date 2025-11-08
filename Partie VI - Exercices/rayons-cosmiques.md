@@ -66,7 +66,7 @@
 2. Calculer vitesse solaire
 3. Vérifier cohérence avec mouvement galactique
 **Résultat attendu :** Anisotropie due au mouvement de la Terre/Soleil
-**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/relativite-restreinte.md)
+**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/unification-forces.md)
 
 #### **Exercice 6 : Rayons cosmiques solaires**
 **Situation :** Le Soleil produit aussi des rayons cosmiques.
@@ -102,7 +102,7 @@
 2. Considérer dilatation temporelle relativiste
 3. Estimer facteur gamma nécessaire
 **Résultat attendu :** γ ≈ 30 pour expliquer survie
-**Chapitre :** [I.1 Relativité](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/relativite-restreinte.md)
+**Chapitre :** [I.1 Relativité](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/unification-forces.md)
 
 #### **Exercice 9 : Cascade atmosphérique**
 **Situation :** Les particules primaires créent des cascades.
@@ -667,4 +667,5 @@ Ces exercices abordent les questions ouvertes :
 - **Mini-laboratoires :** [50 mini-laboratoires](mini-laboratoire.md)
 - **Penser physicien :** [50 exercices méthodologiques](penser-physicien.md)
 - **Fondements :** [Mini laboratoire](mini-laboratoire.md)
+
 

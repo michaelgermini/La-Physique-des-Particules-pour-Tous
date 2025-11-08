@@ -20,7 +20,7 @@
 4. **Modéliser mathématiquement** : coefficient de restitution
 **Résultat :** Compréhension de la dissipation d'énergie et des pertes inélastiques
 
-**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/lois-newton.md)
+**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 2 : Élimination des impossibles**
 **Situation :** Une particule est détectée simultanément à deux endroits différents.
@@ -34,7 +34,7 @@
 4. **Conclure** : réalité physique respecte les lois fondamentales
 **Résultat :** Principe de cohérence avec les théories établies
 
-**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/relativite-restreinte.md)
+**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 3 : Analogie constructive**
 **Situation :** Les quarks sont confinés dans les hadrons.
@@ -62,7 +62,7 @@
 4. **Affiner** : calculs plus précis si nécessaire
 **Résultat :** Méthode d'estimation par ordres de grandeur
 
-**Chapitre :** [I.3 Atomes et noyaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
+**Chapitre :** [I.3 Atomes et noyaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 5 : Pensée contre-intuitive**
 **Situation :** Deux horloges identiques, une au sol, une en avion supersonique.
@@ -76,7 +76,7 @@
 4. **Conclure** : relativité explique l'effet correctement
 **Résultat :** Acceptation de conclusions contre-intuitives mais logiques
 
-**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/paradoxe-jumeaux.md)
+**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 6 : Conservation des grandeurs**
 **Situation :** Désintégration radioactive d'un neutron.
@@ -104,7 +104,7 @@
 4. **Vérifier limites** : relativité inutile à cette échelle
 **Résultat :** Choix du cadre théorique adapté à l'échelle
 
-**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/lois-newton.md)
+**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 8 : Test de falsifiabilité**
 **Situation :** Nouvelle théorie prédisant des particules invisibles.
@@ -216,7 +216,7 @@
 4. **Conclure** : simplicité guide mais preuves décident
 **Résultat :** Équilibre entre simplicité et adéquation aux données
 
-**Chapitre :** [I.2 Philosophie physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/philosophie-physique.md)
+**Chapitre :** [I.2 Philosophie physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 ### 🟡 Niveau intermédiaire (Exercices 16-35)
 
@@ -232,7 +232,7 @@
 4. **Conclure** : approche multi-échelles appropriée
 **Résultat :** Réductionnisme comme outil, pas comme dogme
 
-**Chapitre :** [I.3 Émergence physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/emergence-physique.md)
+**Chapitre :** [I.3 Émergence physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 17 : Invariance et symétries**
 **Situation :** Lois physiques identiques dans tous les référentiels inertiels.
@@ -246,7 +246,7 @@
 4. **Conclure** : symétries guident la construction théorique
 **Résultat :** Rôle central des principes de symétrie
 
-**Chapitre :** [I.1 Invariance relativiste](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/invariance-relativiste.md)
+**Chapitre :** [I.1 Invariance relativiste](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 18 : Approximation successive**
 **Situation :** Mouvement d'une planète avec perturbations des autres planètes.
@@ -260,7 +260,7 @@
 4. **Validation** : précision suffisante obtenue
 **Résultat :** Méthode des approximations successives
 
-**Chapitre :** [I.1 Perturbations orbitales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/perturbations-orbitales.md)
+**Chapitre :** [I.1 Perturbations orbitales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 19 : Dualité onde-particule**
 **Situation :** Lumière montrant comportement ondulatoire et particulaire.
@@ -274,7 +274,7 @@
 4. **Conclure** : nature profonde transcende nos catégories
 **Résultat :** Acceptation de la complémentarité quantique
 
-**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/dualite-onde-particule.md)
+**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 20 : Décohérence quantique**
 **Situation :** Système quantique intriqué avec l'environnement.
@@ -288,7 +288,7 @@
 4. **Conclure** : frontière quantique/classique émergente
 **Résultat :** Explication de l'émergence du monde classique
 
-**Chapitre :** [I.2 Décohérence](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/decoherence.md)
+**Chapitre :** [I.2 Décohérence](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 21 : Principe d'équivalence**
 **Situation :** Gravité et accélération sont indistinguables localement.
@@ -302,7 +302,7 @@
 4. **Conclure** : gravité = géométrie de l'espace-temps
 **Résultat :** Révolution conceptuelle de la relativité générale
 
-**Chapitre :** [I.1 Principe d'équivalence](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/principe-equivalence.md)
+**Chapitre :** [I.1 Principe d'équivalence](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 22 : Renormalisation**
 **Situation :** Théories quantiques des champs ont des infinis.
@@ -344,7 +344,7 @@
 4. **Conclure** : réalité non-locale ou déterminisme abandonné
 **Résultat :** Test crucial des fondements quantiques
 
-**Chapitre :** [I.2 Théorème de Bell](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/theoreme-bell.md)
+**Chapitre :** [I.2 Théorème de Bell](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 25 : Inflation cosmique**
 **Situation :** Univers en expansion exponentielle primordiale.
@@ -528,7 +528,7 @@
 4. **Tests** : double désintégration bêta sans neutrino
 **Résultat :** Mécanisme élégant pour masses de neutrinos
 
-**Chapitre :** [I.5 Mécanisme SeeSaw](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/mecanisme-seesaw.md)
+**Chapitre :** [I.5 Mécanisme SeeSaw](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Exercice 38 : Violation CP forte**
 **Situation :** Interaction forte conserve apparemment C et P séparément.
@@ -768,3 +768,5 @@ Ces exercices abordent les questions profondes :
 - **Mini-laboratoires :** [50 mini-laboratoires](mini-laboratoire.md)
 - **Fondements :** [Méthodologie scientifique](methodologie-scientifique.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+
+

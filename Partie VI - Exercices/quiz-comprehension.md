@@ -371,7 +371,7 @@
 #### **Quiz 1 : Nature des quarks**
 **Réponse correcte : Ils peuvent être observés isolément** (FAUX)
 **Explication :** Les quarks sont toujours confinés dans les hadrons. Ils ne peuvent pas exister libres à cause de la force forte.
-**Chapitre :** [I.5 Quarks et leptons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/quarks-leptons.md)
+**Chapitre :** [I.5 Quarks et leptons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 2 : Le Modèle Standard**
 **Réponse correcte : 3 (électron, muon, tau)**
@@ -401,7 +401,7 @@
 #### **Quiz 7 : Les neutrinos**
 **Réponse correcte : Ils n'interagissent que faiblement**
 **Explication :** Les neutrinos interagissent uniquement via la force faible et la gravité, d'où leur difficulté à les détecter.
-**Chapitre :** [I.5 Neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/neutrinos.md)
+**Chapitre :** [I.5 Neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 8 : Les accélérateurs**
 **Réponse correcte : Étudier les collisions à haute énergie**
@@ -468,27 +468,27 @@
 #### **Quiz 20 : Les antiparticules**
 **Réponse correcte : La charge électrique**
 **Explication :** L'antiparticule a la charge opposée (sauf pour les particules neutres comme le photon).
-**Chapitre :** [I.6 Antimatière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/antimatiere.md)
+**Chapitre :** [I.6 Antimatière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 21 : Le principe d'incertitude**
 **Réponse correcte : Position et impulsion ne peuvent être connues simultanément avec précision**
 **Explication :** Δx × Δp ≥ ℏ/2 - on ne peut connaître à la fois position et vitesse exactement.
-**Chapitre :** [I.2 Mécanique quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/mecanique-quantique.md)
+**Chapitre :** [I.2 Mécanique quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Quiz 22 : La quantification**
 **Réponse correcte : Toutes les réponses précédentes**
 **Explication :** Masse, charge et spin sont quantifiés pour les particules élémentaires.
-**Chapitre :** [I.2 Propriétés quantiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/proprietes-quantiques.md)
+**Chapitre :** [I.2 Propriétés quantiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Quiz 23 : Les mésons**
 **Réponse correcte : 2 quarks**
 **Explication :** Les mésons sont des bosons constitués d'un quark et d'un antiquark.
-**Chapitre :** [I.4 Hadrons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/hadrons.md)
+**Chapitre :** [I.4 Hadrons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 24 : Les baryons**
 **Réponse correcte : 3**
 **Explication :** Les baryons (protons, neutrons) sont constitués de 3 quarks.
-**Chapitre :** [I.4 Baryons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/baryons.md)
+**Chapitre :** [I.4 Baryons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 25 : La chromodynamique quantique**
 **Réponse correcte : 3**
@@ -538,7 +538,7 @@
 #### **Quiz 34 : Les oscillations de neutrinos**
 **Réponse correcte : Les neutrinos ont une masse**
 **Explication :** Les oscillations prouvent que les neutrinos ont une masse non-nulle.
-**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/oscillations-neutrinos.md)
+**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/briques-univers.md)
 
 #### **Quiz 35 : Les supernovae**
 **Réponse correcte : Type Ia**
@@ -681,3 +681,4 @@
 - **Applications :** [Mini-laboratoire](mini-laboratoire.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
 - **Formules :** [Calculs détaillés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/formules-calculs.md)
+

@@ -15,7 +15,7 @@
 
 **Résultat attendu :** Le photon n'est pas dupliqué - il existe une interférence entre les deux chemins possibles, prouvant qu'il n'y a qu'un seul photon qui "choisit" un chemin lors de la mesure.
 
-**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/dualite-onde-particule.md)
+**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 2 : L'électron observé**
 **Scénario :** Un électron passe à travers deux fentes. Quand on observe quelle fente il traverse, il se comporte comme une particule. Sans observation, comme une onde.
@@ -24,7 +24,7 @@
 
 **Résultat attendu :** L'observation collapse la fonction d'onde. Ce n'est pas que l'électron "sait", mais la mesure force le système quantique à choisir un état défini.
 
-**Chapitre :** [I.2 Fonction d'onde](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/fonction-onde.md)
+**Chapitre :** [I.2 Fonction d'onde](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 3 : Le quark libre**
 **Scénario :** Imaginez qu'on puisse "casser" un proton pour libérer ses quarks. Que se passerait-il ?
@@ -42,7 +42,7 @@
 
 **Résultat attendu :** Non - l'antimatière se comporte exactement comme la matière normale, sauf pour les charges électriques opposées. Votre reflet serait identique.
 
-**Chapitre :** [I.6 Symétrie matière-antimatière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/symetrie-matiere-antimatiere.md)
+**Chapitre :** [I.6 Symétrie matière-antimatière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 5 : Le neutrino transparent**
 **Scénario :** Un neutrino traverse la Terre entière sans interagir. Il passe à travers des milliards d'atomes.
@@ -51,7 +51,7 @@
 
 **Résultat attendu :** Ils n'interagissent que via la force faible, qui a une portée extrêmement courte. C'est comme un fantôme qui ne touche rien.
 
-**Chapitre :** [I.5 Propriétés neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/proprietes-neutrinos.md)
+**Chapitre :** [I.5 Propriétés neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 6 : L'horloge atomique accélérée**
 **Scénario :** Une horloge atomique dans un avion volant à Mach 2. Comparez-la avec une identique au sol.
@@ -60,7 +60,7 @@
 
 **Résultat attendu :** Elle retarde légèrement. La relativité restreinte prédit que le temps ralentit pour les objets en mouvement.
 
-**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/relativite-restreinte.md)
+**Chapitre :** [I.1 Relativité restreinte](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 7 : Le boson de Higgs partout**
 **Scénario :** Le mécanisme de Higgs donne de la masse à toutes les particules. Imaginez un univers sans Higgs.
@@ -96,7 +96,7 @@
 
 **Résultat attendu :** Non - les photons se déplacent à c et n'ont pas de temps propre. Pour eux, le voyage est instantané.
 
-**Chapitre :** [I.1 Temps propre relativiste](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/temps-propre-relativiste.md)
+**Chapitre :** [I.1 Temps propre relativiste](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 11 : Les générations de particules**
 **Scénario :** Seule la première génération (électron, up, down) existe. Les autres générations n'existent pas.
@@ -114,7 +114,7 @@
 
 **Résultat attendu :** Elle est soustraite lors de la renormalisation. Seule la différence observable compte, pas la valeur absolue.
 
-**Chapitre :** [I.2 Énergie du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/energie-du-vide.md)
+**Chapitre :** [I.2 Énergie du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 13 : Le LHC miniature**
 **Scénario :** Un accélérateur circulaire de la taille d'une pièce de monnaie.
@@ -152,7 +152,7 @@
 
 **Résultat attendu :** Non - pas de signal causal. C'est une corrélation quantique non-locale, pas un échange d'information.
 
-**Chapitre :** [I.2 Intrication quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/intrication-quantique.md)
+**Chapitre :** [I.2 Intrication quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 17 : Le paradoxe des jumeaux**
 **Scénario :** Un jumeau voyage près de la vitesse de la lumière, l'autre reste sur Terre.
@@ -161,7 +161,7 @@
 
 **Résultat attendu :** Le voyageur est plus jeune. Le temps ralentit pour les objets en mouvement rapide (relativité restreinte).
 
-**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/paradoxe-jumeaux.md)
+**Chapitre :** [I.1 Paradoxe des jumeaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 18 : Le chat de Schrödinger**
 **Scénario :** Un chat dans une boîte avec un mécanisme quantique qui peut le tuer.
@@ -170,7 +170,7 @@
 
 **Résultat attendu :** Dans superposition quantique tant qu'on n'observe pas. L'observation fait "collapse" la fonction d'onde.
 
-**Chapitre :** [I.2 Interprétation de Copenhague](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/interpretation-copenhague.md)
+**Chapitre :** [I.2 Interprétation de Copenhague](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 19 : L'effet Casimir**
 **Scénario :** Deux plaques conductrices rapprochées dans le vide créent une force attractive.
@@ -179,7 +179,7 @@
 
 **Résultat attendu :** Des fluctuations quantiques du vide. Moins de modes d'oscillation entre les plaques qu'à l'extérieur.
 
-**Chapitre :** [I.2 Fluctuations du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/fluctuations-vide.md)
+**Chapitre :** [I.2 Fluctuations du vide](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 20 : Les particules virtuelles**
 **Scénario :** Des particules apparaissent et disparaissent brièvement dans le vide.
@@ -188,7 +188,7 @@
 
 **Résultat attendu :** Elles sont réelles mais temporaires. Elles empruntent de l'énergie au vide via le principe d'incertitude d'Heisenberg.
 
-**Chapitre :** [I.2 Particules virtuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/particules-virtuelles.md)
+**Chapitre :** [I.2 Particules virtuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 21 : La violation de parité**
 **Scénario :** Un processus physique qui se déroule différemment dans un miroir.
@@ -206,7 +206,7 @@
 
 **Résultat attendu :** Oui - les oscillations prouvent que les neutrinos ont des masses non-nulles et se mélangent entre saveurs.
 
-**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/oscillations-neutrinos.md)
+**Chapitre :** [I.5 Oscillations neutrinos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 23 : Le rayonnement de Hawking**
 **Scénario :** Les trous noirs émettent un rayonnement thermique.
@@ -379,7 +379,7 @@
 
 **Résultat attendu :** Les expériences de double désintégration bêta sans neutrino pourraient le révéler.
 
-**Chapitre :** [I.5 Neutrinos de Majorana](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/neutrinos-majorana.md)
+**Chapitre :** [I.5 Neutrinos de Majorana](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Expérience 42 : La violation de CPT**
 **Scénario :** Les lois physiques ne sont pas symétriques sous conjugaison charge-parité-temps.
@@ -514,3 +514,5 @@ Les expériences de ce niveau abordent les grands mystères :
 - **Quiz de compréhension :** [50 quiz complets](quiz-comprehension.md)
 - **Fondements :** [Héritage labos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+
+

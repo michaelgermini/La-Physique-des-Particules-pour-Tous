@@ -85,7 +85,7 @@
 - **Étape 2 :** Composé d'un noyau central + électrons en orbite
 - **Étape 3 :** Noyau = protons (charge +) + neutrons (neutres)
 - **Étape 4 :** Électrons = charge négative, très légers
-**Chapitre :** [I.3 Atomes, noyaux et particules élémentaires](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
+**Chapitre :** [I.3 Atomes, noyaux et particules élémentaires](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **2. Combien de particules dans le Modèle Standard ?**
 **Réponse pas à pas :**
@@ -101,7 +101,7 @@
 - **Étape 2 :** Gravitation : attire toute masse
 - **Étape 3 :** Comparaison : F_grav / F_élec = 10^-40 (énorme différence !)
 - **Étape 4 :** Gravitation la plus faible à l'échelle subatomique
-**Chapitre :** [I.4 Les quatre forces fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/quatre-forces.md)
+**Chapitre :** [I.4 Les quatre forces fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **4. Qu'est-ce qu'un quark ?**
 **Réponse pas à pas :**
@@ -149,7 +149,7 @@
 - **Étape 2 :** Porteuse : gluons (8 types)
 - **Étape 3 :** Agit sur quarks et gluons
 - **Étape 4 :** Confinement : quarks ne peuvent s'échapper
-**Chapitre :** [I.5 Forces détaillées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/forces-detaillees.md)
+**Chapitre :** [I.5 Forces détaillées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **10. Qu'est-ce que la radioactivité ?**
 **Réponse pas à pas :**
@@ -157,7 +157,7 @@
 - **Étape 2 :** 3 types : α (noyau Hélium), β (électron), γ (rayonnement)
 - **Étape 3 :** Découverte par Becquerel (1896)
 - **Étape 4 :** Utilisations médicales et énergétiques
-**Chapitre :** [I.3 Atomes, noyaux et particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
+**Chapitre :** [I.3 Atomes, noyaux et particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **11. Qui a découvert l'électron ?**
 **Réponse pas à pas :**
@@ -173,7 +173,7 @@
 - **Étape 2 :** Limite universelle (relativité)
 - **Étape 3 :** Dans le vide, rien ne va plus vite
 - **Étape 4 :** ≈ 300 000 km/s ou 1 pied lumière/an
-**Chapitre :** [I.9 Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/grandeurs-unites.md)
+**Chapitre :** [I.9 Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **13. Qu'est-ce qu'un photon ?**
 **Réponse pas à pas :**
@@ -215,7 +215,7 @@
 - **Étape 2 :** Longueur d'onde λ = h/p (De Broglie 1924)
 - **Étape 3 :** Électrons diffractés comme ondes
 - **Étape 4 :** Complémentarité : onde ET particule
-**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/observer-particule.md)
+**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **18. Pourquoi les particules ont-elles une masse ?**
 **Réponse pas à pas :**
@@ -247,7 +247,7 @@
 - **Étape 2 :** Dilatation temps : t = t₀/√(1-v²/c²)
 - **Étape 3 :** Contraction longueur : L = L₀√(1-v²/c²)
 - **Étape 4 :** Équivalence masse-énergie : E = mc²
-**Chapitre :** [I.9 Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/grandeurs-unites.md)
+**Chapitre :** [I.9 Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **22. Expliquez l'incertitude de Heisenberg**
 **Réponse pas à pas :**
@@ -255,7 +255,7 @@
 - **Étape 2 :** Position/momentum : couples conjugués
 - **Étape 3 :** Mesure perturbe le système
 - **Étape 4 :** Limite fondamentale précision
-**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/observer-particule.md)
+**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **23. Pourquoi l'Univers contient-il plus de matière ?**
 **Réponse pas à pas :**
@@ -295,7 +295,7 @@
 - **Étape 2 :** Transformation quark down → up
 - **Étape 3 :** Interaction faible (bosons W)
 - **Étape 4 :** Conservation charge, nombre leptons
-**Chapitre :** [I.3 Atomes, noyaux et particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
+**Chapitre :** [I.3 Atomes, noyaux et particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **28. Pourquoi le ciel est-il bleu ?**
 **Réponse pas à pas :**
@@ -327,7 +327,7 @@
 - **Étape 2 :** Mesure A affecte instantanément B
 - **Étape 3 :** Einstein "action fantôme" (1935)
 - **Étape 4 :** Base calcul quantique, cryptographie
-**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/observer-particule.md)
+**Chapitre :** [I.8 Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **32. Pourquoi les neutrinos sont-ils si légers ?**
 **Réponse pas à pas :**
@@ -510,3 +510,5 @@
 
 - **Chapitre suivant :** [Mini laboratoire](mini-laboratoire.md)
 - **Fondements :** [Quiz compréhension](quiz-comprehension.md)
+
+

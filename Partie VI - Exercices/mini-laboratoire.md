@@ -24,7 +24,7 @@
 2. Observer l'arc-en-ciel réfléchi sur papier blanc
 3. Mesurer les angles des différentes couleurs
 **Résultat attendu :** Diffraction de la lumière blanche en spectre visible (arc-en-ciel)
-**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/dualite-onde-particule.md)
+**Chapitre :** [I.2 Dualité onde-particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 3 : Générateur simple**
 **Matériel :** Aimant, fil de cuivre (10m), ampèremètre, pile
@@ -51,7 +51,7 @@
 2. Éclairer avec LED UV
 3. Mesurer la tension photoélectrique
 **Résultat attendu :** Production de courant seulement avec lumière UV (pas visible)
-**Chapitre :** [I.2 Effet photoélectrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/effet-photoelectrique.md)
+**Chapitre :** [I.2 Effet photoélectrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 6 : Polarisation de la lumière**
 **Matériel :** Lunettes de soleil polarisées, cellophane, lampe
@@ -60,7 +60,7 @@
 2. Superposer deuxième paire tournée à 90°
 3. Observer l'extinction de la lumière
 **Résultat attendu :** La lumière polarisée ne passe pas à travers filtre perpendiculaire
-**Chapitre :** [I.2 Polarisation photon](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/polarisation-photon.md)
+**Chapitre :** [I.2 Polarisation photon](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 7 : Force centrifuge**
 **Matériel :** Ficelle, poids, chronomètre
@@ -69,7 +69,7 @@
 2. Faire tourner horizontalement
 3. Mesurer période pour différentes vitesses
 **Résultat attendu :** Force centrifuge = mv²/r (simulation de force centripète)
-**Chapitre :** [I.1 Force centripète](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/force-centripete.md)
+**Chapitre :** [I.1 Force centripète](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 8 : Capacité calorifique**
 **Matériel :** Eau chaude, glaçons, thermomètre
@@ -78,7 +78,7 @@
 2. Ajouter glaçons progressivement
 3. Noter évolution température
 **Résultat attendu :** L'eau a grande capacité thermique (chauffe/peut lentement)
-**Chapitre :** [I.1 Chaleur et thermodynamique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/chaleur-thermodynamique.md)
+**Chapitre :** [I.1 Chaleur et thermodynamique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 9 : Interférences sonores**
 **Matériel :** Deux haut-parleurs, générateur de fréquence, microphone
@@ -87,7 +87,7 @@
 2. Les placer face à face
 3. Se déplacer pour trouver zones silence/bruit
 **Résultat attendu :** Zones d'interférence constructive/destructive
-**Chapitre :** [I.2 Interférences](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/interferences.md)
+**Chapitre :** [I.2 Interférences](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 10 : Lentille convergente**
 **Matériel :** Loupe, bougie, écran, règle
@@ -96,7 +96,7 @@
 2. Déplacer loupe pour former image nette
 3. Mesurer distances objet/image
 **Résultat attendu :** 1/f = 1/do + 1/di (formule des lentilles)
-**Chapitre :** [I.2 Optique géométrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/optique-geometrique.md)
+**Chapitre :** [I.2 Optique géométrique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 11 : Circuit RC**
 **Matériel :** Résistance, condensateur, pile, voltmètre, chronomètre
@@ -114,7 +114,7 @@
 2. Tracer T² vs L
 3. Vérifier T = 2π√(L/g)
 **Résultat attendu :** Relation entre période et longueur du pendule
-**Chapitre :** [I.1 Oscillations harmoniques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/oscillations-harmoniques.md)
+**Chapitre :** [I.1 Oscillations harmoniques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 13 : Diffusion de la lumière**
 **Matériel :** Lampe laser, verre d'eau, lait en poudre
@@ -123,7 +123,7 @@
 2. Ajouter progressivement lait
 3. Observer faisceau laser
 **Résultat attendu :** Diffusion Rayleigh (bleu) puis Mie (blanc)
-**Chapitre :** [I.2 Diffusion lumière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/diffusion-lumiere.md)
+**Chapitre :** [I.2 Diffusion lumière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 14 : Force magnétique sur courant**
 **Matériel :** Fil électrique, pile, aimant, boussole
@@ -141,7 +141,7 @@
 2. Mesurer fréquence perçue
 3. Calculer vitesse relative
 **Résultat attendu :** f' = f/(1 ± v/c) pour ondes sonores
-**Chapitre :** [I.1 Effet Doppler](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/effet-doppler.md)
+**Chapitre :** [I.1 Effet Doppler](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 ### 🟡 Niveau intermédiaire (Laboratoires 16-35)
 
@@ -161,7 +161,7 @@
 2. Observer spectre d'émission
 3. Identifier raies caractéristiques
 **Résultat attendu :** Chaque élément a signature spectrale unique
-**Chapitre :** [I.3 Spectroscopie atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/spectroscopie-atomique.md)
+**Chapitre :** [I.3 Spectroscopie atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 18 : Cristaux liquides**
 **Matériel :** Montre digitale LCD, polariseurs, thermomètre
@@ -170,7 +170,7 @@
 2. Changer température
 3. Noter changements d'apparence
 **Résultat attendu :** Les cristaux liquides changent d'orientation avec température
-**Chapitre :** [I.2 États de la matière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/etats-matiere.md)
+**Chapitre :** [I.2 États de la matière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 19 : Oscillateur électronique**
 **Matériel :** Condensateur, résistance, amplificateur opérationnel, oscilloscope
@@ -188,7 +188,7 @@
 2. Mesurer atténuation vs longueur
 3. Tester réflexion totale interne
 **Résultat attendu :** Propagation par réflexion totale interne
-**Chapitre :** [I.2 Propagation lumière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/propagation-lumiere.md)
+**Chapitre :** [I.2 Propagation lumière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 21 : Cellule photovoltaïque**
 **Matériel :** Panneau solaire miniature, multimètre, lampe
@@ -215,7 +215,7 @@
 2. Ajuster mise au point
 3. Mesurer grossissement
 **Résultat attendu :** G = G_objectif × G_oculaire
-**Chapitre :** [I.2 Microscopie optique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/microscopie-optique.md)
+**Chapitre :** [I.2 Microscopie optique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 24 : Filtre de Kalman**
 **Matériel :** Arduino, capteur, programme de filtrage
@@ -251,7 +251,7 @@
 2. Éclairer avec laser
 3. Observer motif de diffraction
 **Résultat attendu :** Points de diffraction selon Bragg
-**Chapitre :** [I.2 Cristallographie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/cristallographie.md)
+**Chapitre :** [I.2 Cristallographie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 28 : Théorème de Pythagore optique**
 **Matériel :** Miroirs, laser, écran
@@ -260,7 +260,7 @@
 2. Envoyer rayon laser
 3. Vérifier chemin optique minimal
 **Résultat attendu :** Le rayon suit le plus court chemin
-**Chapitre :** [I.2 Principe Fermat](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/principe-fermat.md)
+**Chapitre :** [I.2 Principe Fermat](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 29 : Pont de Wheatstone**
 **Matériel :** Résistances, potentiomètre, galvanomètre
@@ -278,7 +278,7 @@
 2. Mesurer accélération
 3. Vérifier a = g(m1-m2)/(m1+m2)
 **Résultat attendu :** Accélération dépend de différence de masses
-**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/lois-newton.md)
+**Chapitre :** [I.1 Lois Newton](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 31 : Interféromètre**
 **Matériel :** Miroirs, séparateur de faisceau, laser
@@ -287,7 +287,7 @@
 2. Recombinar après chemins différents
 3. Observer franges d'interférence
 **Résultat attendu :** Franges mobiles avec différence de chemin
-**Chapitre :** [I.2 Interférométrie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/interferometrie.md)
+**Chapitre :** [I.2 Interférométrie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 32 : Chambre de Wilson**
 **Matériel :** Récipient, glace sèche, alcool
@@ -361,7 +361,7 @@
 2. Mesurer durée par autocorrélation
 3. Utiliser pour pompage optique
 **Résultat attendu :** Durée < 10^-13 s
-**Chapitre :** [I.2 Laser femtoseconde](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/laser-femtoseconde.md)
+**Chapitre :** [I.2 Laser femtoseconde](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 40 : Piège à ions**
 **Matériel :** Électrodes RF, vide poussé, laser de refroidissement
@@ -370,7 +370,7 @@
 2. Refroidir par laser Doppler
 3. Mesurer transitions quantiques
 **Résultat attendu :** Ions immobilisés pour spectroscopie précise
-**Chapitre :** [I.2 Piège à ions](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/piege-ions.md)
+**Chapitre :** [I.2 Piège à ions](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 41 : Horloge atomique**
 **Matériel :** Atomes de césium, cavité résonnante
@@ -379,7 +379,7 @@
 2. Irradier à fréquence de transition
 3. Compter oscillations
 **Résultat attendu :** Précision < 10^-15
-**Chapitre :** [I.2 Horloge atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/horloge-atomique.md)
+**Chapitre :** [I.2 Horloge atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 42 : Téléportation quantique**
 **Matériel :** Photons intriqués, analyseurs de polarisation
@@ -388,7 +388,7 @@
 2. Mesurer premier photon
 3. Transférer information au second
 **Résultat attendu :** État quantique transféré sans transport physique
-**Chapitre :** [I.2 Téléportation quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/teleportation-quantique.md)
+**Chapitre :** [I.2 Téléportation quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 43 : Simulation quantique**
 **Matériel :** Ordinateur quantique, algorithmes quantiques
@@ -397,7 +397,7 @@
 2. Simuler système quantique
 3. Mesurer avantage quantique
 **Résultat attendu :** Accélération vs calculs classiques
-**Chapitre :** [I.2 Informatique quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/informatique-quantique.md)
+**Chapitre :** [I.2 Informatique quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 44 : Gravimétrie atomique**
 **Matériel :** Atomes froids, interférences Raman
@@ -406,7 +406,7 @@
 2. Créer ondes de matière
 3. Mesurer accélération gravitationnelle
 **Résultat attendu :** Précision < 10^-9 m/s²
-**Chapitre :** [I.1 Gravimétrie atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/gravimetrie-atomique.md)
+**Chapitre :** [I.1 Gravimétrie atomique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 45 : Détection ondes gravitationnelles**
 **Matériel :** Interféromètre LIGO-like, lasers stabilisés
@@ -451,7 +451,7 @@
 2. Enregistrer motif de diffraction
 3. Reconstruire structure atomique
 **Résultat attendu :** Positions atomiques à 0.01 Å
-**Chapitre :** [I.3 Cristallographie neutronique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/cristallographie-neutronique.md)
+**Chapitre :** [I.3 Cristallographie neutronique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/democrite-modele-standard.md)
 
 #### **Laboratoire 50 : Détecteur Cherenkov**
 **Matériel :** Radiateur, photomultiplicateur, particule relativiste
@@ -516,3 +516,5 @@ Ces expériences requièrent des installations spécialisées :
 - **Jeux raisonnement :** [50 jeux de raisonnement](jeux-raisonnement.md)
 - **Fondements :** [Rayons cosmiques](rayons-cosmiques.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)
+
+
