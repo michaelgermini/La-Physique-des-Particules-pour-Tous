@@ -189,7 +189,7 @@
 - **Étape 2 :** Or absorbe bleu, réfléchit rouge/jaune
 - **Étape 3 :** Électrons de conduction (plasma)
 - **Étape 4 :** Fréquence plasma ≈ lumière bleue
-**Chapitre :** [V.6 Physique dans la vie quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/physique-quotidien.md)
+**Chapitre :** [V.6 Physique dans la vie quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **15. Qu'est-ce que la matière noire ?**
 **Réponse pas à pas :**
@@ -303,7 +303,7 @@
 - **Étape 2 :** Bleu (400nm) diffusé 16x plus que rouge
 - **Étape 3 :** Atmosphère = particules < λ lumière
 - **Étape 4 :** Coucher soleil : trajet plus long = rouge
-**Chapitre :** [V.6 Physique quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/physique-quotidien.md)
+**Chapitre :** [V.6 Physique quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **29. Qu'est-ce que la fusion nucléaire ?**
 **Réponse pas à pas :**
@@ -311,7 +311,7 @@
 - **Étape 2 :** Soleil : 4H → He + neutrinos + énergie
 - **Étape 3 :** Barrière coulomb : températures élevées
 - **Étape 4 :** Source énergie étoiles et bombes H
-**Chapitre :** [V.6 Physique quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/physique-quotidien.md)
+**Chapitre :** [V.6 Physique quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **30. Comment mesure-t-on l'énergie des particules ?**
 **Réponse pas à pas :**

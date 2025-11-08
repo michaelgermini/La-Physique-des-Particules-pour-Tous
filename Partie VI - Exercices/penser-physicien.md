@@ -654,7 +654,7 @@
 4. **Conclure** : questionne notre place dans l'Univers
 **Résultat :** Perspective cosmologique sur la vie
 
-**Chapitre :** [V.4 Vie extraterrestre](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/vie-extraterrestre.md)
+**Chapitre :** [V.4 Vie extraterrestre](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Exercice 47 : Intelligence artificielle**
 **Situation :** IA pouvant surpasser l'intelligence humaine.
@@ -668,7 +668,7 @@
 4. **Conclure** : révolution méthodologique
 **Résultat :** Changement paradigmatique imminent
 
-**Chapitre :** [V.5 IA en physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/ia-physique.md)
+**Chapitre :** [V.5 IA en physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Exercice 48 : Changement climatique**
 **Situation :** Crise environnementale d'origine anthropique.
@@ -682,7 +682,7 @@
 4. **Conclure** : responsabilité collective
 **Résultat :** Physique appliquée aux défis globaux
 
-**Chapitre :** [V.6 Physique environnement](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/physique-environnement.md)
+**Chapitre :** [V.6 Physique environnement](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Exercice 49 : Physique et société**
 **Situation :** Applications militaires des découvertes physiques.
@@ -696,7 +696,7 @@
 4. **Conclure** : responsabilité scientifique
 **Résultat :** Dimension sociale de la physique
 
-**Chapitre :** [V.7 Éthique physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/ethique-physique.md)
+**Chapitre :** [V.7 Éthique physique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Exercice 50 : Avenir de la physique**
 **Situation :** Vers où se dirige la recherche fondamentale ?

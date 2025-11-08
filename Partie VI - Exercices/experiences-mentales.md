@@ -512,5 +512,5 @@ Les expériences de ce niveau abordent les grands mystères :
 
 - **Questions progressives :** [50 questions pas à pas](50-questions.md)
 - **Quiz de compréhension :** [50 quiz complets](quiz-comprehension.md)
-- **Fondements :** [Héritage labos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/heritage-laboratoires.md)
+- **Fondements :** [Héritage labos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 - **Lexique :** [Termes spécialisés](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md)

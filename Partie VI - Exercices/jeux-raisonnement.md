@@ -41,7 +41,7 @@
 **Objectif :** Combiner 4 protons pour former un noyau d'hélium (fusion pp).
 **Résultat attendu :** La fusion libère de l'énergie quand la masse finale est inférieure à la somme des masses initiales.
 
-**Chapitre :** [V.2 Énergie solaire](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/energie-solaire.md)
+**Chapitre :** [V.2 Énergie solaire](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Jeu 6 : Particules virtuelles**
 **Règles :** Des particules peuvent apparaître brièvement du vide selon ΔE × Δt ≥ ℏ/2.
@@ -246,7 +246,7 @@
 **Objectif :** Expliquer l'origine des rayons cosmiques ultra-haute énergie (>10^20 eV).
 **Résultat attendu :** Probablement des noyaux accélérés dans des champs magnétiques extrêmes près de quasars.
 
-**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/rayons-cosmiques.md)
+**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Jeu 35 : Détecteurs de particules**
 **Règles :** Différents détecteurs spécialisés pour différentes particules.

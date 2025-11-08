@@ -441,7 +441,7 @@
 #### **Quiz 15 : Les rayons cosmiques**
 **Réponse correcte : Inconnue**
 **Explication :** L'origine des rayons cosmiques ultra-haute énergie (>10^20 eV) reste un mystère.
-**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/rayons-cosmiques.md)
+**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 ### 🟡 **Niveau intermédiaire : Réponses détaillées**
 

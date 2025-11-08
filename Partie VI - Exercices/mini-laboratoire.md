@@ -15,7 +15,7 @@
 2. Placer dans conteneur opaque
 3. Compter les "clics" audibles pendant 10 minutes
 **Résultat attendu :** Détection de muons cosmiques traversant l'aluminium (environ 1 par minute/m²)
-**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/rayons-cosmiques.md)
+**Chapitre :** [V.3 Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Laboratoire 2 : Spectre de la lumière**
 **Matériel :** CD/DVD, lampe de poche, papier blanc
@@ -433,7 +433,7 @@
 2. Comprimer plasma par ablation
 3. Atteindre conditions de fusion
 **Résultat attendu :** Gain énergétique > 1
-**Chapitre :** [V.2 Fusion inertielle](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/fusion-inertielle.md)
+**Chapitre :** [V.2 Fusion inertielle](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 
 #### **Laboratoire 48 : Accélérateur laser-plasma**
 **Matériel :** Laser pétawatt, gaz cible
