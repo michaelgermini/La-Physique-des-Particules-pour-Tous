@@ -107,4 +107,4 @@
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Penser physicien](penser-physicien.md)
-- **Fondements :** [Héritage labos](../Partie_V_Science_Action/heritage-laboratoires.md)
+- **Fondements :** [Héritage labos](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/heritage-laboratoires.md)

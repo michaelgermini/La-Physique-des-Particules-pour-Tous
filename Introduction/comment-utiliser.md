@@ -249,7 +249,7 @@ Combien de temps pouvez-vous consacrer par semaine ?
 
 - **Parcours guidé :** [Objectifs et structure](objectifs-structure.md)
 - **Index général :** [Recherche par mot-clé](../Annexes/index-general.md)
-- **Quiz :** [Évaluation initiale](../Partie_VI_Exercices/quiz-comprehension.md)
+- **Quiz :** [Évaluation initiale](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VI%20-%20Exercices/quiz-comprehension.md)
 
 ---
 

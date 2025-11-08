@@ -148,8 +148,8 @@ Sur une échelle de 1 à 10, votre compréhension de base :
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Pourquoi Genève et le CERN ?](geneve-cern-coeur.md)
-- **Approfondissement :** [Les quatre forces fondamentales](../Partie_I_Fondements/quatre-forces.md)
-- **Application :** [Le LHC en détail](../Partie_II_Experimentation/cyclotron-lhc.md)
+- **Approfondissement :** [Les quatre forces fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/quatre-forces.md)
+- **Application :** [Le LHC en détail](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/cyclotron-lhc.md)
 
 ---
 

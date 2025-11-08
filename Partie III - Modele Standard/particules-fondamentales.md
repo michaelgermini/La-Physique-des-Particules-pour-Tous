@@ -275,7 +275,7 @@ Génération 1         Génération 2         Génération 3
 
 - **Chapitre suivant :** [Quarks, leptons et bosons](quarks-leptons-bosons.md)
 - **Approfondissement :** [Tableau complet des 17 particules](../tableau-17-particules.md)
-- **Application :** [Composition des atomes](../Partie_I_Fondements/atomes-noyaux-particules.md)
+- **Application :** [Composition des atomes](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
 
 ---
 

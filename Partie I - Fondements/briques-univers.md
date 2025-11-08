@@ -316,7 +316,7 @@ Briques de l'Univers
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [De Démocrite au Modèle Standard](democrite-modele-standard.md)
-- **Approfondissement :** [Les particules fondamentales](../Partie_III_Modele_Standard/particules-fondamentales.md)
+- **Approfondissement :** [Les particules fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/particules-fondamentales.md)
 - **Application :** [Exemples mathématiques](../Annexes/formules-calculs.md)
 
 ---

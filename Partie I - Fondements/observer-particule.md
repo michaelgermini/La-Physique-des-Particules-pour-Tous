@@ -167,8 +167,8 @@ Où :
 ### 🔗 Références croisées
 
 - **[I.7 La mesure et la détection](mesure-detection.md)** : Complète cette section
-- **[II.4 Les détecteurs de particules](../Partie_II_Experimentation/detecteurs-particules.md)** : Technologies détaillées
-- **[III.6 La découverte de 2012](../Partie_III_Modele_Standard/decouverte-2012.md)** : Cas pratique du Higgs
+- **[II.4 Les détecteurs de particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/detecteurs-particules.md)** : Technologies détaillées
+- **[III.6 La découverte de 2012](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/decouverte-2012.md)** : Cas pratique du Higgs
 
 ---
 

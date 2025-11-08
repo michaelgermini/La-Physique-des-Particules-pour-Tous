@@ -170,5 +170,5 @@ Tp = Ep / k_B ≈ 1.42 × 10^32 K
 
 ## 🔗 Références croisées
 
-- **Chapitre suivant :** [CERN et Suisse](Partie_V_Science_Action/cern-suisse.md)
+- **Chapitre suivant :** [CERN et Suisse](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/cern-suisse.md)
 - **Fondements :** [Questions ouvertes](questions-ouvertes.md)

@@ -107,4 +107,4 @@
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Recherche aventure](recherche-aventure.md)
-- **Fondements :** [Rayons cosmiques](../Partie_VI_Exercices/rayons-cosmiques.md)
+- **Fondements :** [Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VI%20-%20Exercices/rayons-cosmiques.md)

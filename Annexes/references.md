@@ -218,7 +218,7 @@ CMS Collaboration (2012). Observation of a new boson at a mass of 125 GeV with t
 
 - **[Annexes - Chronologie](chronologie-physique.md)** : Contexte historique
 - **[Annexes - Formules](formules-calculs.md)** : Aspects mathématiques
-- **[Partie III - Modèle Standard](../Partie_III_Modele_Standard/)** : Concepts détaillés
+- **[Partie III - Modèle Standard](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/)** : Concepts détaillés
 
 ---
 

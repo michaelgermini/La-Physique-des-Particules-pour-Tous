@@ -158,4 +158,4 @@ n → p + e⁻ + ν̄_e
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Pourquoi trois d'entre elles s'unifient](unification-forces.md)
-- **Approfondissement :** [Théories de jauge](../Partie_III_Modele_Standard/theories-jauge.md)
+- **Approfondissement :** [Théories de jauge](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/theories-jauge.md)

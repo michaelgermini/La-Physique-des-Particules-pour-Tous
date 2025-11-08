@@ -267,7 +267,7 @@ Théories au-delà (SUSY, cordes...)
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Atomes, noyaux et particules élémentaires](atomes-noyaux-particules.md)
-- **Approfondissement :** [Le mécanisme de Higgs](../Partie_III_Modele_Standard/mecanisme-higgs.md)
+- **Approfondissement :** [Le mécanisme de Higgs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/mecanisme-higgs.md)
 - **Chronologie :** [Histoire de la physique des particules](../Annexes/chronologie-physique.md)
 
 ---

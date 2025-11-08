@@ -103,5 +103,5 @@
 
 ## 🔗 Références croisées
 
-- **Chapitre suivant :** [Science imagination](Partie_VII_Philosophie/science-imagination.md)
+- **Chapitre suivant :** [Science imagination](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VII%20-%20Philosophie/science-imagination.md)
 - **Fondements :** [Mini laboratoire](mini-laboratoire.md)

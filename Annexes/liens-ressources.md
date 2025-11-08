@@ -251,7 +251,7 @@ Cette annexe regroupe toutes les ressources utiles pour approfondir vos connaiss
 ### 🔗 Références croisées
 
 - **[Introduction - Comment utiliser](Introduction/comment-utiliser.md)** : Guide méthodologique
-- **[Partie V - Science en action](../Partie_V_Science_Action/)** : Applications pratiques
+- **[Partie V - Science en action](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/)** : Applications pratiques
 - **[Annexes - Lexique](lexique-illustre.md)** : Définitions des termes
 
 ---

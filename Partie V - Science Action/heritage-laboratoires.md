@@ -124,5 +124,5 @@
 
 ## 🔗 Références croisées
 
-- **Chapitre suivant :** [Expériences mentales](Partie_VI_Exercices/experiences-mentales.md)
+- **Chapitre suivant :** [Expériences mentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VI%20-%20Exercices/experiences-mentales.md)
 - **Fondements :** [Physique quotidienne](physique-quotidien.md)

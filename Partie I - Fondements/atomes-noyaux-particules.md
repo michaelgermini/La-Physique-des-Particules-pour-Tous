@@ -290,8 +290,8 @@ Pour v ≈ 2×10^6 m/s : λ ≈ 3.6×10^-10 m
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Les quatre forces fondamentales](quatre-forces.md)
-- **Approfondissement :** [Les particules du Modèle Standard](../Partie_III_Modele_Standard/particules-fondamentales.md)
-- **Exercices :** [Calculs sur les atomes](../Partie_VI_Exercices/jeux-raisonnement.md)
+- **Approfondissement :** [Les particules du Modèle Standard](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/particules-fondamentales.md)
+- **Exercices :** [Calculs sur les atomes](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VI%20-%20Exercices/jeux-raisonnement.md)
 
 ---
 

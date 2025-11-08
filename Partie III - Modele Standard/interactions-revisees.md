@@ -121,4 +121,4 @@ Où β₀ = 11 - 2n_f/3
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Théories de jauge](theories-jauge.md)
-- **Fondements :** [Les quatre forces](../Partie_I_Fondements/quatre-forces.md)
+- **Fondements :** [Les quatre forces](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/quatre-forces.md)

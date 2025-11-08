@@ -83,4 +83,4 @@ Une théorie de jauge est invariante sous transformations locales de phase.
 ## 🔗 Références croisées
 
 - **Précédent :** [Interactions fondamentales](interactions-revisees.md)
-- **Suivant :** [Limites du Modèle Standard](../Partie_IV_Au-dela/limites-modele-standard.md)
+- **Suivant :** [Limites du Modèle Standard](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20IV%20-%20Au-dela/limites-modele-standard.md)

@@ -268,8 +268,8 @@ Où :
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Objectifs et structure du livre](objectifs-structure.md)
-- **Approfondissement :** [Le fonctionnement du LHC](../Partie_II_Experimentation/cyclotron-lhc.md)
-- **Applications :** [Héritages des laboratoires](../Partie_V_Science_Action/heritage-laboratoires.md)
+- **Approfondissement :** [Le fonctionnement du LHC](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/cyclotron-lhc.md)
+- **Applications :** [Héritages des laboratoires](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/heritage-laboratoires.md)
 
 ---
 

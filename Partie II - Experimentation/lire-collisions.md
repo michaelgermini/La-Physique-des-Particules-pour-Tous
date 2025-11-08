@@ -226,7 +226,7 @@ graph TD
 
 - **[II.7 L'analyse des données](analyse-donnees.md)** : Complète cette section
 - **[II.9 IA et statistiques](ia-statistiques.md)** : Technologies avancées
-- **[III.6 Découverte 2012](../Partie_III_Modele_Standard/decouverte-2012.md)** : Cas d'application
+- **[III.6 Découverte 2012](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/decouverte-2012.md)** : Cas d'application
 
 ---
 

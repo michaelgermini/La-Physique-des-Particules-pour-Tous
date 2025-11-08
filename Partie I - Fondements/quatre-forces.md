@@ -287,8 +287,8 @@ Forces Fondamentales
 ## 🔗 Références croisées
 
 - **Chapitre suivant :** [Gravitation, électromagnétisme, interaction forte, interaction faible](forces-detaillees.md)
-- **Approfondissement :** [Théories de jauge](../Partie_III_Modele_Standard/theories-jauge.md)
-- **Application :** [Forces dans la vie quotidienne](../Partie_V_Science_Action/physique-quotidien.md)
+- **Approfondissement :** [Théories de jauge](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20III%20-%20Modele%20Standard/theories-jauge.md)
+- **Application :** [Forces dans la vie quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20V%20-%20Science%20Action/physique-quotidien.md)
 
 ---
 

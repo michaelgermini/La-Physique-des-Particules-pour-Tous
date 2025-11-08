@@ -125,5 +125,5 @@ E = 7460 × 0.938 ≈ 7000 GeV = 7 TeV
 
 ## 🔗 Références croisées
 
-- **Chapitre suivant :** [Les accélérateurs de particules](../Partie_II_Experimentation/accelerateurs-particules.md)
+- **Chapitre suivant :** [Les accélérateurs de particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20II%20-%20Experimentation/accelerateurs-particules.md)
 - **Outils :** [Calculateur d'unités](../Annexes/formules-calculs.md)

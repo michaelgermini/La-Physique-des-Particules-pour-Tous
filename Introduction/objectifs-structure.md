@@ -271,7 +271,7 @@ Chaque chapitre suit une **méthodologie progressive** :
 
 - **Chapitre suivant :** [Comment utiliser ce livre](comment-utiliser.md)
 - **Parcours personnalisé :** Voir les suggestions ci-dessus
-- **Évaluation :** [Quiz de compréhension](../Partie_VI_Exercices/quiz-comprehension.md)
+- **Évaluation :** [Quiz de compréhension](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20VI%20-%20Exercices/quiz-comprehension.md)
 
 ---
 

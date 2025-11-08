@@ -232,7 +232,7 @@ Liberté asymptotique : Faible interaction à courte distance
 
 - **Chapitre suivant :** [Tableau complet des 17 particules](tableau-17-particules.md)
 - **Approfondissement :** [Théories de jauge](../theories-jauge.md)
-- **Application :** [Composition des noyaux](../Partie_I_Fondements/atomes-noyaux-particules.md)
+- **Application :** [Composition des noyaux](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie%20I%20-%20Fondements/atomes-noyaux-particules.md)
 
 ---
 
