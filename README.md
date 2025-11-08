@@ -10,7 +10,7 @@
 
 *📚 Livre pédagogique complet • 🧮 Mathématiques concrètes • 🎯 Pédagogie moderne • 🌍 Applications quotidiennes*
 
-[📖 **Commencer la lecture**](#-table-des-matières) • [🌐 **Site web**](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous) • [📧 **Contact**](mailto:michael@germini.info)
+[📖 **Commencer la lecture**](#-table-des-matières) • [🌐 **Repository**](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous) • [📧 **Contact**](mailto:michael@germini.info)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-### 🎯 **57 chapitres** • **63 fichiers** • **12,000+ lignes** • **30+ exemples mathématiques**
+### 🎯 **57 chapitres pédagogiques** • **63 fichiers structurés** • **12,000+ lignes détaillées** • **30+ exemples mathématiques concrets**
 
 </div>
 
-Ce livre pédagogique explore la physique des particules élémentaires de manière accessible et moderne. Conçu pour tous les curieux - étudiants, enseignants, amateurs de science ou simplement passionnés par les grands mystères de l'Univers - il combine rigueur scientifique et pédagogie innovante.
+Ce livre pédagogique explore la physique des particules élémentaires de manière **accessible et moderne**. Conçu pour tous les curieux - étudiants, enseignants, amateurs de science ou simplement passionnés par les grands mystères de l'Univers - il combine **rigueur scientifique** et **pédagogie innovante**.
 
 ### ✨ **Caractéristiques pédagogiques uniques**
 
@@ -40,155 +40,89 @@ Ce livre pédagogique explore la physique des particules élémentaires de mani�
 - **🟡 Intermédiaires** : Étudiants en sciences, enseignants
 - **🔴 Avancés** : Chercheurs, doctorants en physique
 
-| Section | Description | Nombre de chapitres | Niveau recommandé |
-|---------|-------------|-------------------|-------------------|
-| 📖 **Introduction** | Présentation générale | 4 chapitres | 🟢 Débutant |
-| 🌌 **Partie I - Fondements** | Bases théoriques | 8 chapitres | 🟢 Débutant |
-| ⚙️ **Partie II - Expérimentation** | Méthodes expérimentales | 9 chapitres | 🟡 Intermédiaire |
-| 🧬 **Partie III - Modèle Standard** | Théorie actuelle | 8 chapitres | 🟡 Intermédiaire |
-| 🌠 **Partie IV - Au-delà** | Frontières actuelles | 7 chapitres | 🔴 Avancé |
-| 🔭 **Partie V - Science en action** | Applications pratiques | 7 chapitres | 🟢 Débutant |
-| 🧠 **Partie VI - Exercices** | Pratique pédagogique | 7 chapitres | Tous niveaux |
-| 🌍 **Partie VII - Philosophie** | Réflexion globale | 4 chapitres | 🔴 Avancé |
-| 📚 **Annexes** | Ressources complémentaires | 5 annexes | Référence |
-
 ---
 
-## 📖 Table des matières
+## 📖 Table des Matières complète
 
-<details>
-<summary><strong>📖 Introduction (4 chapitres)</strong></summary>
+### 📖 Introduction
+- **1.1** [Qu'est-ce que la physique des particules ?](Introduction/quest-ce-que-physique-particules.md)
+- **1.2** [Pourquoi l'Université de Genève et le CERN sont au cœur de cette science](Introduction/geneve-cern-coeur.md)
+- **1.3** [Objectifs et structure du livre](Introduction/objectifs-structure.md)
+- **1.4** [Comment utiliser ce livre (lecture libre ou parcours guidé)](Introduction/comment-utiliser.md)
 
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **1.1** | [Qu'est-ce que la physique des particules ?](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Introduction/quest-ce-que-physique-particules.md) | Définition et importance | 🟢 |
-| **1.2** | [Pourquoi Genève et le CERN ?](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Introduction/geneve-cern-coeur.md) | Centre mondial de recherche | 🟢 |
-| **1.3** | [Objectifs et structure](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Introduction/objectifs-structure.md) | Guide pédagogique | 🟢 |
-| **1.4** | [Comment utiliser ce livre](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Introduction/comment-utiliser.md) | Parcours de lecture | 🟢 |
+### 🌌 Partie I — Les fondements de la matière
+- **I.1** [Les briques de l'univers](Partie_I_Fondements/briques-univers.md)
+- **I.2** [De Démocrite au Modèle Standard](Partie_I_Fondements/democrite-modele-standard.md)
+- **I.3** [Atomes, noyaux et particules élémentaires](Partie_I_Fondements/atomes-noyaux-particules.md)
+- **I.4** [Les quatre forces fondamentales](Partie_I_Fondements/quatre-forces.md)
+- **I.5** [Gravitation, électromagnétisme, interaction forte, interaction faible](Partie_I_Fondements/forces-detaillees.md)
+- **I.6** [Pourquoi trois d'entre elles s'unifient (et pas la gravité)](Partie_I_Fondements/unification-forces.md)
+- **I.7** [La mesure et la détection](Partie_I_Fondements/mesure-detection.md)
+- **I.8** [Ce que signifie "observer une particule"](Partie_I_Fondements/observer-particule.md)
+- **I.9** [Grandeurs physiques et unités utilisées](Partie_I_Fondements/grandeurs-unites.md)
 
-</details>
+### ⚙️ Partie II — Expérimenter l'invisible
+- **II.1** [Les accélérateurs de particules](Partie_II_Experimentation/accelerateurs-particules.md)
+- **II.2** [Principe de fonctionnement](Partie_II_Experimentation/principe-fonctionnement.md)
+- **II.3** [Du cyclotron au LHC (Large Hadron Collider)](Partie_II_Experimentation/cyclotron-lhc.md)
+- **II.4** [Les détecteurs de particules](Partie_II_Experimentation/detecteurs-particules.md)
+- **II.5** [Comment capter des traces invisibles](Partie_II_Experimentation/capter-traces.md)
+- **II.6** [Les chambres à bulles, calorimètres et détecteurs à pixels](Partie_II_Experimentation/types-detecteurs.md)
+- **II.7** [L'analyse des données](Partie_II_Experimentation/analyse-donnees.md)
+- **II.8** [Comment les physiciens "lisent" les collisions](Partie_II_Experimentation/lire-collisions.md)
+- **II.9** [L'intelligence artificielle et la statistique dans la recherche moderne](Partie_II_Experimentation/ia-statistiques.md)
 
-<details>
-<summary><strong>🌌 Partie I - Fondements (9 chapitres)</strong></summary>
+### 🧬 Partie III — Le Modèle Standard
+- **III.1** [Les particules fondamentales](Partie_III_Modele_Standard/particules-fondamentales.md)
+- **III.2** [Quarks, leptons et bosons](Partie_III_Modele_Standard/quarks-leptons-bosons.md)
+- **III.3** [Tableau complet des 17 particules connues](Partie_III_Modele_Standard/tableau-17-particules.md)
+- **III.4** [Le rôle du boson de Higgs](Partie_III_Modele_Standard/role-boson-higgs.md)
+- **III.5** [Le mécanisme de Brout–Englert–Higgs expliqué simplement](Partie_III_Modele_Standard/mecanisme-higgs.md)
+- **III.6** [La découverte de 2012 et ses conséquences](Partie_III_Modele_Standard/decouverte-2012.md)
+- **III.7** [Les interactions fondamentales revisitées](Partie_III_Modele_Standard/interactions-revisees.md)
+- **III.8** [Théories de jauge, symétrie et renormalisation (vulgarisées)](Partie_III_Modele_Standard/theories-jauge.md)
 
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **I.1** | [Briques de l'univers](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/briques-univers.md) | Hiérarchie matière | 🟢 |
-| **I.2** | [Démocrite → Modèle Standard](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/democrite-modele-standard.md) | Évolution historique | 🟢 |
-| **I.3** | [Atomes, noyaux, particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/atomes-noyaux-particules.md) | Structure atomique | 🟢 |
-| **I.4** | [Quatre forces fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/quatre-forces.md) | Interactions universelles | 🟢 |
-| **I.5** | [Forces détaillées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/forces-detaillees.md) | Propriétés spécifiques | 🟡 |
-| **I.6** | [Unification des forces](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/unification-forces.md) | Théories unifiées | 🟡 |
-| **I.7** | [Mesure et détection](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/mesure-detection.md) | Méthodes expérimentales | 🟡 |
-| **I.8** | [Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/observer-particule.md) | Paradoxe quantique | 🟡 |
-| **I.9** | [Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/grandeurs-unites.md) | Systèmes de mesure | 🟡 |
+### 🌠 Partie IV — Au-delà du connu
+- **IV.1** [Les limites du Modèle Standard](Partie_IV_Au-dela/limites-modele-standard.md)
+- **IV.2** [Neutrinomasse, matière noire, antimatière, énergie sombre](Partie_IV_Au-dela/defis-actuels.md)
+- **IV.3** [Les nouvelles pistes de recherche](Partie_IV_Au-dela/nouvelles-pistes.md)
+- **IV.4** [Supersymétrie, dimensions supplémentaires, cordes, etc.](Partie_IV_Au-dela/theories-etranges.md)
+- **IV.5** [Les grandes questions ouvertes](Partie_IV_Au-dela/questions-ouvertes.md)
+- **IV.6** [Pourquoi l'univers contient-il plus de matière que d'antimatière ?](Partie_IV_Au-dela/matiere-antimatiere.md)
+- **IV.7** [Qu'est-ce que la gravitation quantique ?](Partie_IV_Au-dela/gravitation-quantique.md)
 
-</details>
+### 🔭 Partie V — La science en action
+- **V.1** [Le CERN et la Suisse scientifique](Partie_V_Science_Action/cern-suisse.md)
+- **V.2** [Le rôle de Genève dans la recherche mondiale](Partie_V_Science_Action/role-geneve.md)
+- **V.3** [Le fonctionnement du CERN et ses expériences majeures](Partie_V_Science_Action/fonctionnement-cern.md)
+- **V.4** [Comment devenir physicien des particules](Partie_V_Science_Action/devenir-physicien.md)
+- **V.5** [Études, parcours, métiers et collaborations](Partie_V_Science_Action/etudes-parcours.md)
+- **V.6** [La physique des particules dans la vie quotidienne](Partie_V_Science_Action/physique-quotidien.md)
+- **V.7** [IRM, positrons, World Wide Web : héritages des laboratoires](Partie_V_Science_Action/heritage-laboratoires.md)
 
-<details>
-<summary><strong>⚙️ Partie II - Expérimentation (9 chapitres)</strong></summary>
+### 🧠 Partie VI — Exercices et curiosités
+- **VI.1** [Expériences mentales simples](Partie_VI_Exercices/experiences-mentales.md)
+- **VI.2** [Penser comme un physicien](Partie_VI_Exercices/penser-physicien.md)
+- **VI.3** [Jeux de raisonnement sur les interactions](Partie_VI_Exercices/jeux-raisonnement.md)
+- **VI.4** [Quiz de compréhension](Partie_VI_Exercices/quiz-comprehension.md)
+- **VI.5** [50 questions progressives](Partie_VI_Exercices/50-questions.md)
+- **VI.6** [Mini-laboratoire à la maison](Partie_VI_Exercices/mini-laboratoire.md)
+- **VI.7** [Observation de rayons cosmiques (avec matériel simple)](Partie_VI_Exercices/rayons-cosmiques.md)
 
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **II.1** | [Accélérateurs de particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/accelerateurs-particules.md) | Machines géantes | 🟡 |
-| **II.2** | [Principe de fonctionnement](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/principe-fonctionnement.md) | Physique accélérateurs | 🟡 |
-| **II.3** | [Cyclotron → LHC](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/cyclotron-lhc.md) | Évolution technologique | 🟡 |
-| **II.4** | [Détecteurs de particules](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/detecteurs-particules.md) | Technologies détection | 🟡 |
-| **II.5** | [Capter les traces](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/capter-traces.md) | Signatures physiques | 🟡 |
-| **II.6** | [Types de détecteurs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/types-detecteurs.md) | Chambres, calorimètres, pixels | 🟡 |
-| **II.7** | [Analyse des données](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/analyse-donnees.md) | Big data LHC | 🔴 |
-| **II.8** | [Lire les collisions](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/lire-collisions.md) | Reconstruction événements | 🔴 |
-| **II.9** | [IA et statistiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_II_Experimentation/ia-statistiques.md) | Méthodes modernes | 🔴 |
+### 🌍 Partie VII — Philosophie et société
+- **VII.1** [Science, imagination et humanité](Partie_VII_Philosophie/science-imagination.md)
+- **VII.2** [La recherche comme aventure collective](Partie_VII_Philosophie/recherche-aventure.md)
+- **VII.3** [Les implications éthiques et écologiques des grands laboratoires](Partie_VII_Philosophie/implications-ethiques.md)
+- **VII.4** [L'avenir de la physique et de la pensée scientifique](Partie_VII_Philosophie/avenir-physique.md)
 
-</details>
-
-<details>
-<summary><strong>🧬 Partie III - Modèle Standard (8 chapitres)</strong></summary>
-
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **III.1** | [Particules fondamentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/particules-fondamentales.md) | Les 17 particules | 🟡 |
-| **III.2** | [Quarks, leptons, bosons](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/quarks-leptons-bosons.md) | Familles élémentaires | 🟡 |
-| **III.3** | [17 particules classifiées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/tableau-17-particules.md) | Catalogue complet | 🟡 |
-| **III.4** | [Boson de Higgs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/role-boson-higgs.md) | Donneur de masse | 🟡 |
-| **III.5** | [Mécanisme Higgs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/mecanisme-higgs.md) | Brisure de symétrie | 🔴 |
-| **III.6** | [Découverte 2012](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/decouverte-2012.md) | Validation expérimentale | 🟡 |
-| **III.7** | [Interactions revisitées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/interactions-revisees.md) | Forces en détail | 🔴 |
-| **III.8** | [Théories de jauge](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_III_Modele_Standard/theories-jauge.md) | Symétrie et renormalisation | 🔴 |
-
-</details>
-
-<details>
-<summary><strong>🌠 Partie IV - Au-delà (7 chapitres)</strong></summary>
-
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **IV.1** | [Limites du Modèle Standard](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/limites-modele-standard.md) | Défis théoriques | 🔴 |
-| **IV.2** | [Défis actuels](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/defis-actuels.md) | Matière noire, neutrinos | 🔴 |
-| **IV.3** | [Nouvelles pistes](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/nouvelles-pistes.md) | Théories alternatives | 🔴 |
-| **IV.4** | [Théories étranges](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/theories-etranges.md) | SUSY, cordes, dimensions | 🔴 |
-| **IV.5** | [Questions ouvertes](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/questions-ouvertes.md) | Mystères fondamentaux | 🔴 |
-| **IV.6** | [Matière vs antimatière](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/matiere-antimatiere.md) | Asymétrie cosmique | 🔴 |
-| **IV.7** | [Gravitation quantique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_IV_Au-dela/gravitation-quantique.md) | Unification ultime | 🔴 |
-
-</details>
-
-<details>
-<summary><strong>🔭 Partie V - Science en action (7 chapitres)</strong></summary>
-
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **V.1** | [CERN et Suisse](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/cern-suisse.md) | Institution emblématique | 🟢 |
-| **V.2** | [Rôle de Genève](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/role-geneve.md) | Centre d'excellence | 🟢 |
-| **V.3** | [Fonctionnement CERN](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/fonctionnement-cern.md) | Organisation interne | 🟡 |
-| **V.4** | [Devenir physicien](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/devenir-physicien.md) | Carrières possibles | 🟢 |
-| **V.5** | [Études et parcours](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/etudes-parcours.md) | Formation académique | 🟡 |
-| **V.6** | [Physique quotidienne](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/physique-quotidien.md) | Applications concrètes | 🟢 |
-| **V.7** | [Héritages technologiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_V_Science_Action/heritage-laboratoires.md) | Innovations pratiques | 🟢 |
-
-</details>
-
-<details>
-<summary><strong>🧠 Partie VI - Exercices (7 chapitres)</strong></summary>
-
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **VI.1** | [Expériences mentales](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/experiences-mentales.md) | Pensées théoriques | 🟡 |
-| **VI.2** | [Penser physicien](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/penser-physicien.md) | Méthodologie | 🟡 |
-| **VI.3** | [Jeux raisonnement](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/jeux-raisonnement.md) | Logique interactive | 🟡 |
-| **VI.4** | [Quiz compréhension](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/quiz-comprehension.md) | Auto-évaluation | Tous |
-| **VI.5** | [50 questions](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/50-questions.md) | Révision complète | Tous |
-| **VI.6** | [Mini-laboratoire](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/mini-laboratoire.md) | Expériences maison | 🟢 |
-| **VI.7** | [Rayons cosmiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VI_Exercices/rayons-cosmiques.md) | Observation physique | 🟡 |
-
-</details>
-
-<details>
-<summary><strong>🌍 Partie VII - Philosophie (4 chapitres)</strong></summary>
-
-| Chapitre | Titre | Description | Niveau |
-|----------|-------|-------------|---------|
-| **VII.1** | [Science et imagination](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VII_Philosophie/science-imagination.md) | Créativité scientifique | 🟡 |
-| **VII.2** | [Aventure collective](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VII_Philosophie/recherche-aventure.md) | Collaboration mondiale | 🟡 |
-| **VII.3** | [Implications éthiques](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VII_Philosophie/implications-ethiques.md) | Responsabilités sociales | 🔴 |
-| **VII.4** | [Avenir scientifique](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_VII_Philosophie/avenir-physique.md) | Perspectives futures | 🔴 |
-
-</details>
-
-<details>
-<summary><strong>📚 Annexes (7 documents)</strong></summary>
-
-| Annexe | Titre | Description | Utilité |
-|--------|-------|-------------|---------|
-| **A.1** | [Lexique illustré](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md) | Définitions termes | Référence rapide |
-| **A.2** | [Chronologie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/chronologie-physique.md) | Histoire découvertes | Contexte historique |
-| **A.3** | [Liens et ressources](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/liens-ressources.md) | MOOCs, livres, sites | Apprentissage complémentaire |
-| **A.4** | [Références](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/references.md) | Articles, ouvrages | Sources scientifiques |
-| **A.5** | [Index général](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/index-general.md) | Recherche mots-clés | Navigation thématique |
-| **A.6** | [Formules et calculs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/formules-calculs.md) | Équations physiques | Outil mathématique |
-| **A.7** | [Synthèses visuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/syntheses-visuelles.md) | Diagrammes schémas | Visualisation concepts |
-
-</details>
+### 📚 Annexes
+- **A.1** [Lexique illustré des termes de physique](Annexes/lexique-illustre.md)
+- **A.2** [Chronologie de la physique des particules](Annexes/chronologie-physique.md)
+- **A.3** [Liens, lectures, MOOC et ressources ouvertes (UNIGE, CERN, etc.)](Annexes/liens-ressources.md)
+- **A.4** [Références scientifiques et vulgarisées](Annexes/references.md)
+- **A.5** [Index général avec recherche par mot-clé](Annexes/index-general.md)
+- **A.6** [Formules et calculs physiques](Annexes/formules-calculs.md)
+- **A.7** [Synthèses visuelles par chapitre](Annexes/syntheses-visuelles.md)
 
 ---
 
