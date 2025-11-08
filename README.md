@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### 🎯 **55 chapitres** • **61 fichiers** • **11,000+ lignes** • **25+ exemples mathématiques**
+### 🎯 **57 chapitres** • **63 fichiers** • **12,000+ lignes** • **30+ exemples mathématiques**
 
 </div>
 
@@ -69,7 +69,7 @@ Ce livre pédagogique explore la physique des particules élémentaires de mani�
 </details>
 
 <details>
-<summary><strong>🌌 Partie I - Fondements (8 chapitres)</strong></summary>
+<summary><strong>🌌 Partie I - Fondements (9 chapitres)</strong></summary>
 
 | Chapitre | Titre | Description | Niveau |
 |----------|-------|-------------|---------|
@@ -80,7 +80,8 @@ Ce livre pédagogique explore la physique des particules élémentaires de mani�
 | **I.5** | [Forces détaillées](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/forces-detaillees.md) | Propriétés spécifiques | 🟡 |
 | **I.6** | [Unification des forces](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/unification-forces.md) | Théories unifiées | 🟡 |
 | **I.7** | [Mesure et détection](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/mesure-detection.md) | Méthodes expérimentales | 🟡 |
-| **I.8** | [Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/grandeurs-unites.md) | Systèmes de mesure | 🟡 |
+| **I.8** | [Observer une particule](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/observer-particule.md) | Paradoxe quantique | 🟡 |
+| **I.9** | [Grandeurs et unités](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Partie_I_Fondements/grandeurs-unites.md) | Systèmes de mesure | 🟡 |
 
 </details>
 
@@ -175,15 +176,17 @@ Ce livre pédagogique explore la physique des particules élémentaires de mani�
 </details>
 
 <details>
-<summary><strong>📚 Annexes (5 documents)</strong></summary>
+<summary><strong>📚 Annexes (7 documents)</strong></summary>
 
 | Annexe | Titre | Description | Utilité |
 |--------|-------|-------------|---------|
 | **A.1** | [Lexique illustré](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/lexique-illustre.md) | Définitions termes | Référence rapide |
 | **A.2** | [Chronologie](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/chronologie-physique.md) | Histoire découvertes | Contexte historique |
-| **A.3** | [Index général](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/index-general.md) | Recherche mots-clés | Navigation thématique |
-| **A.4** | [Formules et calculs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/formules-calculs.md) | Équations physiques | Outil mathématique |
-| **A.5** | [Synthèses visuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/syntheses-visuelles.md) | Diagrammes schémas | Visualisation concepts |
+| **A.3** | [Liens et ressources](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/liens-ressources.md) | MOOCs, livres, sites | Apprentissage complémentaire |
+| **A.4** | [Références](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/references.md) | Articles, ouvrages | Sources scientifiques |
+| **A.5** | [Index général](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/index-general.md) | Recherche mots-clés | Navigation thématique |
+| **A.6** | [Formules et calculs](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/formules-calculs.md) | Équations physiques | Outil mathématique |
+| **A.7** | [Synthèses visuelles](https://github.com/michaelgermini/La-Physique-des-Particules-pour-Tous/blob/master/Annexes/syntheses-visuelles.md) | Diagrammes schémas | Visualisation concepts |
 
 </details>
 
@@ -322,13 +325,13 @@ Votre contribution est la bienvenue pour améliorer ce livre pédagogique.
 
 | 📈 Métrique | Valeur | Description |
 |-------------|--------|-------------|
-| **📄 Fichiers** | 61 | Contenu pédagogique structuré |
-| **📝 Lignes** | 11,000+ | Texte détaillé et accessible |
-| **🎯 Chapitres** | 55 | Couverture complète du sujet |
-| **🧮 Mathématiques** | 25+ | Exemples concrets appliqués |
-| **📊 Tableaux** | 15+ | Classifications pédagogiques |
-| **⚠️💡✓ Encadrés** | 55+ | Aides pédagogiques spéciales |
-| **🔗 Références** | 100+ | Liens croisés internes |
+| **📄 Fichiers** | 63 | Contenu pédagogique complet |
+| **📝 Lignes** | 12,000+ | Texte détaillé et accessible |
+| **🎯 Chapitres** | 57 | Couverture exhaustive du sujet |
+| **🧮 Mathématiques** | 30+ | Exemples concrets appliqués |
+| **📊 Tableaux** | 20+ | Classifications pédagogiques |
+| **⚠️💡✓ Encadrés** | 60+ | Aides pédagogiques spéciales |
+| **🔗 Références** | 120+ | Liens croisés internes |
 
 **📊 Évolution :** Créé en 2025 • Mis à jour régulièrement
 
